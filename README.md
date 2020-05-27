@@ -1,6 +1,8 @@
-# Java Backend Roadmap
+# Lộ trình tự học Java Backend
 
-## Introduction
+## Giới thiệu
+
+Lộ trình tự học Java Backend (kèm tài liệu)
 
 ## 1. Java Standard Edition
 
